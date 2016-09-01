@@ -35,8 +35,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         // After you're done implementing your method, call on it here. You can remove this example below
-        
-        makeShoppingListWithItems(nameOfItems, b:quantityOfItems)
+//        
+//        makeShoppingListWithItems(nameOfItems, b:quantityOfItems)
         
     }
     
